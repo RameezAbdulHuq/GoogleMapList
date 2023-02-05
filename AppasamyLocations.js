@@ -1,4 +1,3 @@
-<script type="text/javascript">
 			var markers = [
 				{
 					"title": "Ambala",
@@ -417,4 +416,4 @@
 				}, 0);
 				window.console.log(mapOptions.zoom);
 			}
-		</script> 
+
