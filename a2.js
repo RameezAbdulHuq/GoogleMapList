@@ -68,17 +68,7 @@ var markers = [
 
 				},
 				
-				{
-
-					"title": "Gwalior",
-
-					"lat": 26.220284,
-
-					"lng": 78.206504,
-
-					"description": "<table style='width:250px;'>                        <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Gwalior:</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>MR.Ramasamy.R</strong></td>                        </tr>                        <tr>                          <td>372 -A, Jiwaji Nagar,</td>                        </tr>                        <tr>                          <td>Thatipur,</td>                        </tr>                        <tr>                          <td>Gwalior - 474 011.</td>                        </tr>                        <tr>                          <td>PH: 0751-3293619</td>                        </tr>                        <tr>                          <td>Mob: 09335697989</td>                        </tr>                        </tbody></table>"
-
-				},
+				
 				{
 
 					"title": "Jaipur",
