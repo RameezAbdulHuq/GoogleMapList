@@ -380,7 +380,7 @@ var markers = [
 				var latlngbounds = new google.maps.LatLngBounds();
 				var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 				var i = 0;
-				var interval = setInterval(function () {
+				var myinterval = setInterval(function () {
 					var data = markers[i]
 					console.log(i);
 						console.log(data);
@@ -410,7 +410,7 @@ var markers = [
 					latlngbounds.extend(marker.position);
 					i++;
 					if (i == markers.length) {
-						// clearInterval(interval);
+						clearInterval(myinterval);
 						var bounds = new google.maps.LatLngBounds();
 						map.setCenter(latlngbounds.getCenter());
 						map.fitBounds(latlngbounds);
