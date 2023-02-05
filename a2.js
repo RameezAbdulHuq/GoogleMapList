@@ -56,17 +56,7 @@ var markers = [
 					"description": "<table style='width:250px;'>                        <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#CC0000; font-weight:bold;'>Chennai(Head Office)</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>Mr.Parasuraman</strong></td>                          </tr>                        <tr>                          <td>Appasamy Associates,</td>                          </tr>                        <tr>                          <td>20, SBI Officers' Colony 1st St,</td>                        </tr>                        <tr>                          <td> SBI Officers Colony,</td>                        </tr>                        <tr>                          <td>Arumbakkam</td>                        </tr>                        <tr>                          <td>Chennai-6000106. Tamil Nadu.</td>                        </tr>                        <tr>                          <td>Ph:044-30101401, 30101405</td>                        </tr>                        </tbody></table>"
 
 				},
-				{
-
-					"title": "Coimbatore",
-
-					"lat": 11.024747,
-
-					"lng": 76.898037,
-
-					"description": "<table  style='width:250px;'>                        <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Coimbatore</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>Mr.Jeyavelan.S</strong></td>                          </tr>                        <tr>                          <td>NO 18A, NORTH FACE,</td>                          </tr>                        <tr>                          <td> 1ST FLOOR,KALIYAPPAN LAYOUT,</td>                        </tr>                        <tr>                          <td>K.K.PUDHUR, COIMBATORE - 641038.</td>                        </tr>                        <tr>                          <td>Tamil Nadu</td>                        </tr>                        <tr>                          <td>Ph: 0422-3258884</td>                        </tr>                        <tr>                          <td>Mob: 9363248555</td>                        </tr>                        </tbody></table>"
-
-				},
+				
 				
 				
 				{
