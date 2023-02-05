@@ -382,6 +382,8 @@
 				var i = 0;
 				var interval = setInterval(function () {
 					var data = markers[i]
+					console.log(i);
+						console.log(data);
 					var myLatlng = new google.maps.LatLng(data.lat, data.lng);
 					var icon = "";
 					switch (data.title) {
